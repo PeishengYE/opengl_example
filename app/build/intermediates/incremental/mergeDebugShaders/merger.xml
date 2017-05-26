@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/yep/AndroidStudioProjects/opengl_es_example/training_example/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/yep/AndroidStudioProjects/opengl_es_example/training_example/app/src/debug/shaders"/></dataSet></merger>
